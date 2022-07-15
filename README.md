@@ -1,4 +1,4 @@
-# Network Data Collector
+# Network Backup Automation
 
 Network backup automation can be used for automated network devices config and logs collection which is then stored as a text files in your local enviroment. There are two data collection types which are `cfg` and `log` mode. You can specify your own set of commands base on  these two options. 
 
