@@ -8,6 +8,8 @@ This tool is currently using two different modes of access which is via:
 
 [Napalm](https://github.com/napalm-automation/napalm) is used as backend library module for SSH access. The final output will then have two generated text files for each devices for the purpose of easier indexing and lookup. 
 
+![Diagram](./images/diagram.png)
+
 **Sample Use Case:**
 - Scheduled configuration backup
 - Scheduled device inventory and health checkup
