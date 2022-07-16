@@ -6,7 +6,11 @@ This tool is currently using two different modes of access which is via:
 1. NXAPI/SSH for NXOS
 2. SSH for IOS, IOS-XR and Junos network devices. 
 
-[Napalm](https://github.com/napalm-automation/napalm) is used as backend library module for SSH access. The final output will then have two generated text files for each devices for the purpose of easier indexing and lookup. 
+[Napalm](https://github.com/napalm-automation/napalm) is used as backend library module for SSH access. The final output will then have two generated text files for each devices for the purpose of easier indexing and lookup.
+
+**Network Automation and Programmability Abstraction Layer with Multivendor (NAPALM)** support is a Python library that implements a set of functions to interact with different router vendor devices using a unified API.
+
+**Netmiko** : Multi-vendor library to simplify CLI connections to network devices
 
 ![Diagram](./diagram.png)
 
